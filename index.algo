@@ -1,0 +1,18 @@
+ALGORITHM algorithm_name
+VAR
+    X:INTEGER
+      tab:ar;
+BEGIN
+  PROCEDURE insertion(INTEGER x)
+  VAR
+ 
+   
+
+  BEGIN
+    tab[0]=x;
+    for(INTEGER i from 0 to ){
+        tab[0]=
+    }
+  END
+    
+END
